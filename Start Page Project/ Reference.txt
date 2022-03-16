@@ -1,0 +1,43 @@
+>What are startpages?
+Startpages (in the context of this thread) are locally hosted webpages (as in, the files are on your computer - not a server somewhere) that serve as the homepage or new tab page for a browser. They generally contain some number of links to frequently visited sites as the main element; search bars, clocks, calendars and other embedded items are usually added as secondary elements.
+
+>What browser are you using?
+If you can't tell what browser it is, it's probably Firefox, you can theme Firefox using Stylish and finding themes on the Firefox tag of Userstyles.
+Otherwise if you won't upgrade there's always Chrome, you can ~slightly~ customize it using Chrome Theme Maker. Seems like Vivaldi added custom CSS on its "experimental features" tab.
+
+---FAQ---
+>http://pastebin.com/PdPrW5aP
+
+---Discord link---
+>https://discord.gg/ExAGgVR
+
+---Relevant Sites---
+Birb's Ricing
+>https://stpg[dot]tk/
+Collection of startpages for modification and use.
+>http://startpages.github.io/
+>https://www.ricing.chloechantelle.com/
+>http://pastebin.com/ZJvDn0eN
+
+--HTML, CSS & JS--
+>http://www.w3schools.com/html/default.asp
+>http://www.w3schools.com/css/default.asp
+>http://www.w3schools.com/js/default.asp
+>https://www.codecademy.com/learn/make-a-website
+>https://www.codecademy.com/learn/javascript
+
+---Colours Related Links---
+>http://palettegenerator.com/
+>https://webgradients.com/
+>https://www.gradient-animator.com/
+
+---Colours Converter---
+RGB to HEX
+>http://www.javascripter.net/faq/rgbtohex.htm
+
+HEX to RGB
+>http://www.javascripter.net/faq/hextorgb.htm
+
+---Typography Related Links---
+>http://practicaltypography.com/
+>https://www.typewolf.com/
