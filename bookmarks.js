@@ -6,6 +6,8 @@ const bookmarks = [
       { name: "Gmail", url: "https://inbox.google.com" },
       { name: "Outlook", url: "https://outlook.live.com/mail/0/inbox" },
       { name: "GitHub", url: "https://github.com" },
+      { name: "Slate", url:"https://slate.sheridancollege.ca"},
+      { name: "CentralSheridan", url:"https://central.sheridancollege.ca"},
     ],
   },
   {
