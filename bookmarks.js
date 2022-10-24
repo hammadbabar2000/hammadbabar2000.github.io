@@ -18,6 +18,7 @@ const bookmarks = [
       { name: "Amazon Prime", url: "https://www.primevideo.com/" },
       { name: "Twitch", url: "https://twitch.tv" },
       { name: "Disney+", url: "https://disneyplus.com/" },
+      { name: "FloatPlane", url: "https://floatplane.com/"}
     ],
   },
   {
