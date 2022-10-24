@@ -7,7 +7,7 @@ const bookmarks = [
       { name: "Outlook", url: "https://outlook.live.com/mail/0/inbox" },
       { name: "GitHub", url: "https://github.com" },
       { name: "Slate", url:"https://slate.sheridancollege.ca"},
-      { name: "CentralSheridan", url:"https://central.sheridancollege.ca"},
+      { name: "Central Sheridan", url:"https://central.sheridancollege.ca"},
     ],
   },
   {
