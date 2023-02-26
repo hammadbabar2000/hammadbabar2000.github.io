@@ -19,6 +19,8 @@ const bookmarks = [
       { name: "Twitch", url: "https://twitch.tv" },
       { name: "Disney+", url: "https://disneyplus.com/" },
       { name: "FloatPlane", url: "https://floatplane.com/"},
+      { name: "Cruncyroll", url: "https://cruncyroll.com/"},
+      { name: "AnimeShow", url: "https://animeshow.tv/"}
     ],
   },
   {
