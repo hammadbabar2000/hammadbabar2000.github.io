@@ -31,4 +31,12 @@ const bookmarks = [
       { name: "/r/news", url: "https://reddit.com/r/news" },
     ],
   },
+  {
+    title: "Emulators",
+    links: [
+      { name: "Vimm's Layer", url: "https://vimm.net/" },
+      { name: "Soft Cobra", url: "https://softcobra.com/" },
+      { name: "Decode", url: "https://nin10news.com/decode/" },
+    ],
+  },
 ];
