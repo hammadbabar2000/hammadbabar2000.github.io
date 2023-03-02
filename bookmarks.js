@@ -14,11 +14,21 @@ const bookmarks = [
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
+      { name: "Twitch", url: "https://twitch.tv" },
+      { name: "FloatPlane", url: "https://floatplane.com/"},
+    ],
+  },
+  {
+    title: "Streaming",
+    links: [
       { name: "Netflix", url: "https://netflix.com" },
       { name: "Amazon Prime", url: "https://www.primevideo.com/" },
-      { name: "Twitch", url: "https://twitch.tv" },
       { name: "Disney+", url: "https://disneyplus.com/" },
-      { name: "FloatPlane", url: "https://floatplane.com/"},
+    ],
+  },
+  {
+    title: "Anime",
+    links: [
       { name: "Cruncyroll", url: "https://www.crunchyroll.com/"},
       { name: "AnimeShow", url: "https://animeshow.tv/"}
     ],
