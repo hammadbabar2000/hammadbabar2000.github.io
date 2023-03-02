@@ -6,7 +6,7 @@
   --secondaryFg: #4C591E;
   --containerBg: #AFD955;
   --searchBg: var(--containerBg);
-  --scrollbarColor: #98D936;
+  --scrollbarColor: #252A1B;
   --fontFamily: 'Roboto Mono', monospace;
 }
 
@@ -77,7 +77,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 50%;
+  width: 65%;
   margin: 1em 0em;
 }
 
