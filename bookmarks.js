@@ -47,4 +47,12 @@ const bookmarks = [
       { name: "Decode", url: "https://nin10news.com/decode/" },
     ],
   },
+  {
+    title: "AI",
+    links: [
+      { name: "Chat GPT", url: "https://chat.openai.com/chat" },
+      { name: "Playground", url: "https://platform.openai.com/playground" },
+      { name: "GPT Zero", url: "https://gptzero.me/" },
+    ],
+  },
 ];
