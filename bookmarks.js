@@ -14,21 +14,9 @@ const bookmarks = [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "Twitch", url: "https://twitch.tv" },
       { name: "FloatPlane", url: "https://floatplane.com/"},
-    ],
-  },
-  {
-    title: "Streaming",
-    links: [
       { name: "Netflix", url: "https://netflix.com" },
       { name: "Amazon Prime", url: "https://www.primevideo.com/" },
       { name: "Disney+", url: "https://disneyplus.com/" },
-    ],
-  },
-  {
-    title: "Anime",
-    links: [
-      { name: "Cruncyroll", url: "https://www.crunchyroll.com/"},
-      { name: "AnimeShow", url: "https://animeshow.tv/"}
     ],
   },
   {
@@ -45,6 +33,7 @@ const bookmarks = [
       { name: "Vimm's Lair", url: "https://vimm.net/" },
       { name: "Soft Cobra", url: "https://softcobra.com/" },
       { name: "Decode", url: "https://nin10news.com/decode/" },
+      { name: "Roms Megathread", url: "https://r-roms.github.io/" },
     ],
   },
   {
